@@ -1,0 +1,23 @@
+Mapas y vistas: Pokémon FireRed / LeafGreen, Game Freak / Nintendo / The Pokémon Company.
+Fuente: https://archives.bulbagarden.net/wiki/Category:FireRed_and_LeafGreen_maps
+
+route-1: https://archives.bulbagarden.net/media/upload/b/b2/Kanto_Route_1_FRLG.png
+route-2: https://archives.bulbagarden.net/media/upload/2/26/Kanto_Route_2_FRLG.png
+route-3: https://archives.bulbagarden.net/media/upload/b/b0/Kanto_Route_3_FRLG.png
+route-4: https://archives.bulbagarden.net/media/upload/3/37/Kanto_Route_4_FRLG.png
+route-24: https://archives.bulbagarden.net/media/upload/0/06/Kanto_Route_24_FRLG.png
+viridian-forest: https://archives.bulbagarden.net/media/upload/e/e3/FL_Viridian_Forest.png
+pewter-city: https://archives.bulbagarden.net/media/upload/c/cf/Pewter_City_FRLG.png
+mt-moon: https://archives.bulbagarden.net/media/upload/2/2c/FL_Mt_Moon.png
+cerulean-city: https://archives.bulbagarden.net/media/upload/0/0b/Cerulean_City_FRLG.png
+vermilion-city: https://archives.bulbagarden.net/media/upload/8/8d/Vermilion_City_FRLG.png
+rock-tunnel: https://archives.bulbagarden.net/media/upload/b/b9/FL_Rock_Tunnel.png
+pokemon-tower: https://archives.bulbagarden.net/media/upload/7/7a/FL_Pokemon_Tower.png
+celadon-city: https://archives.bulbagarden.net/media/upload/e/ee/Celadon_City_FRLG.png
+safari-zone: https://archives.bulbagarden.net/media/upload/5/5c/FL_Safari_Zone.png
+silph-co: https://archives.bulbagarden.net/media/upload/6/65/FL_Silph_Company.png
+power-plant: https://archives.bulbagarden.net/media/upload/9/99/FL_Power_Plant.png
+seafoam-islands: https://archives.bulbagarden.net/media/upload/d/d5/FL_Seafoam_Islands.png
+cinnabar-mansion: https://archives.bulbagarden.net/media/upload/6/63/FL_Pokemon_Mansion.png
+victory-road: https://archives.bulbagarden.net/media/upload/0/04/FL_Victory_Road.png
+cerulean-cave: https://archives.bulbagarden.net/media/upload/b/b2/FL_Cerulean_Cave.png
